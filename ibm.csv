@@ -1,0 +1,113 @@
+FIELD,Households with solar energy as main source of lighting (%),solar energy,solar power,solar,solar panel,solar panels
+FIELD,Total Households in District,number of houses,# houses,total houses,no. of houses
+FIELD,Households with no lighting (%),% houses without lights,% houses with no lights,% without lights,percent houses without lights,percent houses with no lights,percent without lights,without lights,with no light,with no lighting
+FIELD,Households with no lighting (Number),# houses without light,number of houses without lights,no. of houses without lights,no. of houses without lighting,# houses without lighting
+FIELD,Households with main source of drinking water within premesis(%),% houses with drinking water,percent houses with drinking water,%houses with drinking water,drinking water
+FIELD,Households with main source of drinking water within premesis,# houses with drinking water,drinking water,no. of houses with drinking water,houses with drinking water,number of houses with drinking water
+FIELD,Person Illiterates,illiterates,illiteracy rate
+FIELD,Non Workers - Persons,unemployed persons,unemployed people,non workers
+FIELD,Marginal Workers worked for 0 - 3 moths during last year - Males,total male marginal workers of experience 0 to 3 months
+FIELD,Marginal Workers worked for 3 - 6 moths during last year - Males,total male marginal workers of experience 3 to 6 months
+FIELD,Marginal Workers Household Industry - Females,female marginal workers in household industry
+FIELD,Marginal Workers Household Industry - Males,male marginal workers in household industry
+FIELD,Marginal Workers Household Industry - Persons,marginal workers in household industry
+FIELD,Marginal Workers Agricultural Labourers - Females,female marginal workers Agricultural Labourers
+FIELD,Marginal Workers Agricultural Labourers - Males,male marginal workers Agricultural Labourers
+FIELD,Marginal Workers Agricultural Labourers - Persons,marginal workers Agricultural Labourers
+FIELD,Marginal Workers Cultivators - Females,female marginal workers Cultivators
+FIELD,Marginal Workers Cultivators - Males,male marginal workers Cultivators
+FIELD,Marginal Workers - Females,total female marginal workers
+FIELD,Marginal Workers - Males,total male marginal workers
+FIELD,Marginal Workers - Persons,total marginal workers
+FIELD,Main Workers Other - Females,female main workers others
+FIELD,Main Workers Other - Males,male main workers others
+FIELD,Main Workers Other - Persons,main workers others
+FIELD,Main Workers Household Industry - Females,female main workers in household industry
+FIELD,Main Workers Household Industry - Males,male main workers in household industry
+FIELD,Main Workers Household Industry - Persons,main workers in household industry
+FIELD,Main Workers - Females,female main workers
+FIELD,Main Workers - Males,male main workers
+FIELD,Main Workers - Persons,main workers
+FIELD,Total Workers (Main+Marginal) Males,total male workers,male workers
+FIELD,Male Illiterates,male illiterates
+FIELD,Male Literates,male literates
+FIELD,Marginal Workers Other - Persons,marginal workers in others,marginal workers
+FIELD,Marginal Workers Cultivators - Persons,marginal workers Cultivators,Cultivators marginal workers
+FIELD,Marginal Workers Other - Males,male marginal workers in others,male marginal workers
+FIELD,Marginal Workers Other - Females,female marginal workers in others,female marginal workers
+FIELD,Female Literates,female literates,girls literacy,literacy rate of girls,female literacy
+FIELD,Non Workers - Males,males unemployed,unemployed males,male non workers,non working males
+FIELD,Non Workers - Females,females unemployed,unemployed females,female non workers,non working females
+FIELD,Main Workers Cultivators - Persons,main workers Cultivators,cultivators
+FIELD,Main Workers Cultivators - Males,male main workers Cultivators,cultivators
+FIELD,Main Workers Cultivators - Females,female main workers Cultivators,female cultivators
+FIELD,Main Workers Agricultural Labourers - Persons,main workers Agricultural Labourers,agricultural labourers,agricultural labour
+FIELD,Main Workers Agricultural Labourers - Males,male main workers Agricultural Labourers,male agricultural labourers,agricultural labour
+FIELD,Main Workers Agricultural Labourers - Females,female main workers Agricultural Labourers,female agricultural labourers,female agricultural labour
+FIELD,Female Illiterates,female illiterates,female illiteracy
+FIELD,Households with electricity (%) DLHS-4,Households with electricity,houses with electricity,percent houses with electricity,houses with power,electricity
+FIELD,Scheduled Tribe Females,ST female,scheduled tribe female
+FIELD,Scheduled Tribe Males,ST male,scheduled tribe male
+FIELD,Scheduled Tribe Persons,ST,Scheduled tribe
+FIELD,Scheduled Caste Females,SC female,Scheduled Caste female
+FIELD,Scheduled Caste Males,SC male,Scheduled Caste male
+FIELD,Scheduled Caste Persons,SC,Scheduled Caste
+FIELD,Upper Primary Drop Out Rate (%) DISE,Upper Primary Drop Out Rate,drop out rate,drop out,dropout
+FIELD,Households with landline phone (%),% of households with landlines,percentage of households with landlines,landlines,houses with landline
+FIELD,Households with computer/laptop with internet connection (%),houses with internet connection,households with internet connection,houses with internet
+FIELD,Households with improved source of drinking water (%) DLHS-4,Households with improved source of drinking water
+FIELD,0-6 Age Group Persons,0-6 age,children of age 0-6years,0-6 years old children,0 to 6 year old children
+FIELD,0-6 Age Group Males,males of 0-6 age group,0-6 age group males,boys of 0-6 age group,0-6 age group boys,0 to 6 age boys,0 to 6 age males
+FIELD,Primary Schools with electricity (%) DISE,Primary Schools with electricity
+FIELD,Primary Schools with drinking water facility (%) DISE,Primary Schools with drinking water
+FIELD,Primary Schools with boys toilet (%) DISE,Primary Schools with boys toilet
+FIELD,Primary Schools with girls toilet (%) DISE,primary schools with girls toilet
+FIELD,Primary Female Teachers (%) DISE,primary girls teachers,primary female teachers
+FIELD,Primary Girl's Enrolment (%) DISE,primary female enrollment,primary girls enrollment
+FIELD,Primary Student-Classroom Ratio (%) DISE,Primary Student Classroom Ratio,Primary Student-Classroom Ratio
+FIELD,Primary Drop Out Rate (%) DISE,primary drop out rate
+FIELD,Primary Gross Enrolment Ratio (%) DISE,primary GER,primary gross enrollment ratio
+FIELD,Primary Pupil-Teacher Ratio (%) DISE,Primary Student Teacher Ratio,Primary Student-Teacher Ratio,Primary Pupil Teacher Ratio,Primary Pupil-Teacher Ratio,Student teacher ratio in primary schools
+FIELD,Upper Primary Schools with boys toilet (%) DISE,Upper Primary Schools with boys toilet,schools with boys toilet
+FIELD,Upper Primary Female Teachers (%) DISE,upper primary girls teachers,upper primary female teachers,female teachers
+FIELD,Upper Primary Girl's Enrolment (%) DISE,upper primary female enrollment,upper primary girls enrollment,female enrollment
+FIELD,Upper Primary New Government Schools since 2003 (%) DISE,Upper Primary New Government Schools,new govt schools,new public schools,new schools
+FIELD,Upper Primary Pupil-Teacher Ratio (%) DISE,Upper Primary Student Teacher Ratio,Upper Primary Student-Teacher Ratio,Upper Primary Pupil Teacher Ratio,Upper Primary Pupil-Teacher Ratio,Student teacher ratio in upper primary schools,student teacher ratio,student faculty ratio
+FIELD,Upper Primary Schools with drinking water facility (%) DISE,Upper Primary Schools with drinking water,schools with drinking water
+FIELD,Upper Primary Schools with electricity (%) DISE,Upper Primary Schools with electricity,schools with electricity
+FIELD,Upper Primary Schools with girls toilet (%) DISE,Upper Primary Schools with girls toilet,schools with girls toilet
+FIELD,Upper Primary Student-Classroom Ratio (%) DISE,Upper Primary Student Classroom Ratio,student classroom ratio
+FIELD,Villages with Sub-Health Centres within 3km (%) DLHS-4,villages with SHC,villages with sub health centre
+FIELD,Total Female Population,female count,female population
+FIELD,Total Male Population,male count,Male population
+FIELD,PHCs functioning on a 24x7hours basis (%) DLHS-4,functioning PHC,primary health centre,PHC
+FIELD,Number of Households,total households,number of houses
+FIELD,Number of District Hospitals (#) DLHS-4,district hospitals,hospitals,public hospitals
+FIELD,Mean age at marriage for girls DLHS-4,avg girls marriage age,average girls marriage age,girls marriage age
+FIELD,Mean age at marriage for boys DLHS-4,avg boys marriage age,average boys marriage age,boys marriage age
+FIELD,Households with mobile phone (%),houses with mobile phones,households with mobile phones
+FIELD,Currently married men married below 21years of age (%) DLHS-4,male child marriage,boy marriage,child marriage men,married boys,boys married
+FIELD,Primary Net Enrolment Ratio (%) DISE,primary NER,primary net enrollment
+FIELD,Currently married women married below 18years of age (%) DLHS-4,child marriage female,girl child marriage,child marriage women,girls married,married girls
+FIELD,Primary New Government Schools since 2003 (%) DISE,New primary Government Schools,Primary New Government Schools,new primary schools
+FIELD,Prevalence of Anaemia in women aged 15-49years (%) DLHS-4,Anaemia in women
+FIELD,Prevalence of Severe Anaemia (6-59months) (%) DLHS-4,Severe Anaemia
+FIELD,Prevalence of Anaemia (6-59months) (%) DLHS-4,Anaemia
+FIELD,Prevalence of Acute illness (%) DLHS-4,Acute illness
+FIELD,Births to women aged 15-19years out of Total births (%) DLHS-4,minor mothers,% of women given births at age of 15-19 years,child mothers
+FIELD,Sex Ratio (Number of females per 1000 males),gender ratio,Sex ratio
+FIELD,Prevalence of Severe Anaemia in women aged 15-49years (%) DLHS-4,% severe anaemia in women of 15-49years age group,severe anaemia in women,women with severe anaemia
+FIELD,Prevalence of Chronic illness (%) DLHS-4,Chronic illness,illness
+FIELD,Children who received full vaccination (%) DLHS-4,vaccination stats,vaccination percentage,vaccinated children,children vaccinated,% vaccinated children,% children vaccinated
+FIELD,Current use of any modern method of family planning (%) DLHS-4,% current usage of any modern family planning methods,modern family planning methods
+FIELD,Current use of family planning methods (%) DLHS-4,% current usage of family planning methods,family planning
+FIELD,Total unmet need for family planning (%) DLHS-4,Total % of unmet need for family planning,unmet need for family planning,lack of family planning
+FIELD,0-6 Age Group Females,females of 0-6 age group,0-6 age group females,girls of 0-6 age group,0-6 age group girls,0 to 6 age girls,0 to 6 age females
+FIELD,Institutional Deliveries (%) DLHS-4,institutional deliveries,deliveries in hospital,hospital deliveries
+FIELD,Person Literates,Literates,literate people,literacy rate
+FIELD,Upper Primary Gross Enrolment Ratio (%) DISE,Upper Primary GER,Upper Primary Gross Enrolment Ratio,gross enrollment,GER,gross enrollment rate
+FIELD,Upper Primary Net Enrolment Ratio (%) DISE,Upper Primary NER,Upper Primary Net Enrolment Ratio,Net enrollment rate,NER,net enrollment
+FIELD,Villages with Primary Health Centre within 10km (%) DLHS-4,villages with PHC,villages with primary health centre
+FIELD,Total Workers (Main+Marginal) Persons,total workers,working population,workers
+FIELD,Total Workers (Main+Marginal) Females,total female workers,female workers
+FIELD,Total Population,population

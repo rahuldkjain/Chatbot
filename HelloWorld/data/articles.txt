@@ -1,0 +1,240 @@
+number of households
+total population
+total male population
+total female population
+0-6 age group persons
+0-6 age group males
+0-6 age group females
+scheduled caste persons
+scheduled caste males
+scheduled caste females
+scheduled tribe persons
+scheduled tribe males
+scheduled tribe females
+person literates
+male literates
+female literates
+person illiterates
+male illiterates
+female illiterates
+total workers main+marginal persons
+total workers main+marginal males
+total workers main+marginal females
+main workers- persons
+main workers- males
+main workers- females
+main workers cultivators - persons
+main workers cultivators - males
+main workers cultivators - females
+main workers agricultural labourers - persons
+main workers agricultural labourers - males
+main workers agricultural labourers - females
+main workers household industry - persons
+main workers household industry - males
+main workers household industry - females
+main workers other - persons
+main workers other - males
+main workers other - females
+marginal workers- persons
+marginal workers- males
+marginal workers- females
+marginal workers cultivators - persons
+marginal workers cultivators - males
+marginal workers cultivators - females
+marginal workers agricultural labourers - persons
+marginal workers agricultural labourers - males
+marginal workers agricultural labourers - females
+marginal workers household industry - persons
+marginal workers household industry - males
+marginal workers household industry - females
+marginal workers other - persons
+marginal workers other - males
+marginal workers other - females
+marginal workers worked for 3 - 6 moths during last year - persons 
+marginal workers worked for 3 - 6 moths during last year - males
+marginal workers worked for 3 - 6 moths during last year - females
+marginal workers cultivators worked for 3 - 6 moths during last year - persons
+marginal workers cultivators worked for 3 - 6 moths during last year - males
+marginal workers cultivators worked for 3 - 6 moths during last year - females
+marginal workers agricultural labourers worked for 3 - 6 moths during last year - persons
+marginal workers agricultural labourers worked for 3 - 6 moths during last year - males
+marginal workers agricultural labourers worked for 3 - 6 moths during last year - females
+marginal workers household industry worked for 3 - 6 moths during last year - persons
+marginal workers household industry worked for 3 - 6 moths during last year - males
+marginal workers household industry worked for 3 - 6 moths during last year - females
+marginal workers other worked for 3 - 6 moths during last year - persons
+marginal workers other worked for 3 - 6 moths during last year - males
+marginal workers other worked for 3 - 6 moths during last year - females
+marginal workers worked for 0 - 3 moths during last year - persons 
+marginal workers worked for 0 - 3 moths during last year - males
+marginal workers worked for 0 - 3 moths during last year - females
+marginal workers cultivators worked for 0 - 3 moths during last year - persons
+marginal workers cultivators worked for 0 - 3 moths during last year - males
+marginal workers cultivators worked for 0 - 3 moths during last year - females
+marginal workers agricultural labourers worked for 0 - 3 moths during last year - persons
+marginal workers agricultural labourers worked for 0 - 3 moths during last year - males
+marginal workers agricultural labourers worked for 0 - 3 moths during last year - females
+marginal workers household industry worked for 0 - 3 moths during last year - persons
+marginal workers household industry worked for 0 - 3 moths during last year - males
+marginal workers household industry worked for 0 - 3 moths during last year - females
+marginal workers other worked for 0 - 3 moths during last year - persons
+marginal workers other worked for 0 - 3 moths during last year - males
+marginal workers other worked for 0 - 3 moths during last year - females
+non workers - persons
+non workers - males
+non workers - females
+total adult population
+total adult male population
+total adult female population
+total no of schools of all category
+total no of government schools of all category
+total no of private schools of all category
+total no of madarsas & unrecognised schools of all category
+total no of rural government schools of all category
+total no of government & aided schools of all category
+total no of rural private schools of all category
+total no of boys only schools of all category
+total no of girls only schools of all category
+total elementary enrolment in school of all category primary only,primary with upper primary,primary with upper primary sec/h.sec,upper primary only,upper primary with sec./h.sec,primary with upper primary sec,upper primary withsec.,school with no response
+total elementary enrolment in government school of all category
+total elementary enrolment in private school of all category
+total elementary enrolment in madarsas and unrecognized school of all category
+total no of teacher in government school of all category
+total no of teacher in private school of all category
+total no of teacher in madarsas and unrcognized school of all category
+female over ever attended school
+population below age 15 years population and household profile
+child sex ratio
+sex ratio at birth for children born in the last five years females per 1000 males population and household profile
+child under with registered birth share
+households with electricity population and household profile
+households with an improved drinking water source population and household profile
+households using improved sanitation facility population household profile
+households using clean fuel for cooking population and household profile
+households using iodized salt population and household profile
+health insurance share
+women who are literate characteristics of adults age 15 49
+men who are literate characteristics of adults age 15 49
+women with 10 or more years of schooling characteristics of adults age 15 49
+women age 20 24 married before 18 share
+men age 25 29 years married before age 21 years marriage and fertility
+women age 15 19 pregnant or mother share
+any method current use of family planning methods currently married women age 15 49 years
+any modern method current use of family planning methods currently married women age 15 49 years
+female sterilization current use of family planning methods currently married women age 15 49 years
+male sterilization current use of family planning methods currently married women age 15 49 years
+iud ppiud current use of family planning methods currently married women age 15 49 years
+pill current use of family planning methods currently married women age 15 49 years
+condom current use of family planning methods currently married women age 15 49 years
+family planning unmet need married women 15 49 year
+unmet need for spacing unmet need for family planning currently married women age 15 49 years 
+health worker ever talked to female non users about family planning quality of family planning services
+current users ever told about side effects of current method quality of family planning services
+mothers who had antenatal check up in the first trimester maternity care for last birth in the 5 years before the survey maternal and child health.
+mother antenatal share
+mothers whose last birth was protected against neonatal tetanus maternity care for last birth in the 5 years before the survey maternal and child health.
+mothers who consumed iron folic acid for 100 days or more when they were pregnant maternity care for last birth in the years before the survey maternal and child health.
+mothers who had ful antenatal care maternity care for last birth in the 5 years before the survey maternal and child health
+registered pregnancies for which the mother received mother and child protection mcp card maternity care for last birth in the 5 years before the survey maternal and child health
+mothers who received postnatal care from a doctor nurse lhv anm midwife other health personnel within 2 days of delivery maternity care for last birth in the 5 years before the survey maternal and child health
+mothers jsy share
+average out of pocket expenditure per delivery in public health facility rs maternity care for last birth in the 5 years before the survey maternal and child health
+children born at home who were taken to a health facility for check up within 24 hours of birth maternity care for last birth in the 5 years before the survey maternal and child health
+children who received a health check after birth from a doctor nurse lhv anm midwife other health personnel within 2 days of birth maternity care for last birth in the 5 years before the survey maternal and child health
+institutional birth share
+public institutional birth share
+home delivery conducted by skilled health personnel out of total deliveries delivery care for births in the 5 years before the survey
+births assisted by a doctor nurse lhv anm other health personnel delivery care for births in the 5 years before the survey
+births delivered by caesarean section delivery care for births in the 5 years before the survey
+births in a private health facility delivered by caesarean section delivery care for births in the 5 years before the survey
+births in a public health facility delivered by caesarean section delivery care for births in the 5 years before the survey 
+child age 12 year fully immune share
+children age 12 23 months who have received bcg child immunizations and vitamin a supplementation
+children age 12 23 months who have received 3 doses of polio vaccine child immunizations and vitamin a supplementation
+children age 12 23 months who have received 3 doses of dpt vaccine child immunizations and vitamin a supplementation
+children age 12 23 months who have received measles vaccine child immunizations and vitamin a supplementation
+children age 12 23 months who have received 3 doses of hepatitis b vaccine child immunizations and vitamin a supplementation
+children age 9 59 months who received a vitamin a dose in last 6 months child immunizations and vitamin a supplementation
+children age 12 23 months who received most of the vaccinations in public health facility child immunizations and vitamin a supplementation
+children age 12 23 months who received most of the vaccinations in private health facility child immunizations and vitamin a supplementation
+prevalence of diarrhoea reported in the last 2 weeks preceding the survey treatment of childhood diseases children under age 5 years 
+children with diarrhoea in the last 2 weeks who received oral rehydration salts ors treatment of childhood diseases children under age 5 years 
+children with diarrhoea in the last 2 weeks who received zinc treatment of childhood diseases children under age 5 years
+children with diarrhoea in the last 2 weeks taken to a health facility treatment of childhood diseases children under age 5 years
+prevalence of symptoms of acute respiratory infection ari in the last 2 weeks preceding the survey treatment of childhood diseases children under age 5 years
+children with fever or symptoms of ari in the last 2 weeks preceding the survey taken to a health facility treatment of childhood diseases children under age 5 years
+children under age 3 years breastfed within one hour of birth9 child feeding practices and nutritional status of children
+children under age 6 months exclusively breastfed10 child feeding practices and nutritional status of children
+children age 6 8 months receiving solid or semi solid food and breastmilk10 child feeding practices and nutritional status of children
+breastfeeding children age 6 23 months receiving an adequate diet10 11 child feeding practices and nutritional status of children
+non breastfeeding children age 6 23 months receiving an adequate diet10 11 child feeding practices and nutritional status of children
+total children age 6 23 months receiving an adequate diet10 11 child feeding practices and nutritional status of children
+children under 5 years who are stunted height for age 12 child feeding practices and nutritional status of children
+children under 5 years who are wasted weight for height 12 child feeding practices and nutritional status of children
+children under 5 years who are severely wasted weight for height 13 child feeding practices and nutritional status of children
+children under 5 years who are underweight weight for age 12 child feeding practices and nutritional status of children
+women whose body mass index bmi is below normal bmi 18 5 kg m2 14 nutritional status of adults age 15 49 years
+men whose body mass index bmi is below normal bmi 18 5 kg m2 nutritional status of adults age 15 49 years
+women who are overweight or obese bmi 25 0 kg m2 14 nutritional status of adults age 15 49 years
+men who are overweight or obese bmi 25 0 kg m2 nutritional status of adults age 15 49 years
+anaemia child age 6 month 5 year
+non pregnant women age 15 49 years who are anaemic 12 0 g dl anaemia among children and adults
+pregnant women age 15 49 years who are anaemic 11 0 g dl anaemia among children and adults
+anaemia female age 15 49 year
+anaemia male 15 49 year
+blood sugar level high 140 mg dl blood sugar level among adults age 15 49 years women blood sugar level high 140 mg dl
+blood sugar level very high 160 mg dl blood sugar level among adults age 15 49 years women blood sugar level high 140 mg dl
+blood sugar level high 140 mg dl blood sugar level among adults age 15 49 years men blood sugar level high 140 mg dl
+blood sugar level very high 160 mg dl blood sugar level among adults age 15 49 years men blood sugar level high 140 mg dl
+slightly above normal systolic 140 159 mm of hg and or diastolic 90 99 mm of hg women hypertension among adults age 15 49 years
+moderately high systolic 160 179 mm of hg and or diastolic 100 109 mm of hg women hypertension among adults age 15 49 years
+very high systolic 180 mm of hg and or diastolic 110 mm of hg women hypertension among adults age 15 49 years
+slightly above normal systolic 140 159 mm of hg and or diastolic 90 99 mm of hg men hypertension among adults age 15 49 years
+moderately high systolic 160 179 mm of hg and or diastolic 100 109 mm of hg men hypertension among adults age 15 49 years
+very high systolic 180 mm of hg and or diastolic 110 mm of hg men hypertension among adults age 15 49 years
+cervix women age 15 49 years who have ever undergone examinations of
+breast women age 15 49 years who have ever undergone examinations of
+oral cavity women age 15 49 years who have ever undergone examinations of
+total sub centers
+primary health care
+community health care
+sub district hospitals
+district hospitals
+total detail entered with & without toilet
+total household detail with toilet
+detail entered for noof households not having toilet bpl
+detail entered for noof households not having toilet apl
+household's accessing community and other toilet
+total household covered after bls
+total household covered including bls
+coverage of household including unapproved
+gram panchayat total
+gram panchayat declared odf
+gram panchayat verified odf
+gram panchayat not declared odf
+villages total
+villages noof not exist / unhabitated villages
+villages declared odf
+villages verified odf
+villages not declared odf
+villages not verified odf
+villages verified odf year wise
+village declared odf year wise
+number of registered household
+number of registered person
+cumulative noof hh issued jobcards to sc
+cumulative noof hh issued jobcards to st
+cumulative noof hh issued jobcards to other
+cumulative noof hh issued jobcards to all
+employment demanded household
+employment demanded person
+employment offered household
+employment offered person
+employment provided household
+employment provided persons
+employment provided persondays generated
+number of families completed 100 days
+noof hh which are beneficiary of land reform/iay
+noof disabled beneficiary individuals
+educational summary overview
+educational infrastructure overview summary
